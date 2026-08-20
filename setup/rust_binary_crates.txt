@@ -10,7 +10,6 @@ cross
 fib-rs
 flamegraph
 leptosfmt
-mistralrs-cli
 sqlx-cli
 tauri-cli
 trunk
